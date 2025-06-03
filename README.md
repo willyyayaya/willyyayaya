@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1>中文自傳</h1>
 
-我叫翁瑋志（Willy），目前居住於臺灣，時區為 UTC +08:00。我是一名充滿熱情的初學程式設計師，對前端、後端，以及自動化領域皆有涉獵與實作經驗​
+我叫翁瑋志（Willy）。我是一名充滿熱情的初學程式設計師，對前端、後端，以及自動化領域皆有涉獵與實作經驗​
 GitHub
 。在 GitHub 上，我已完成多項個人專案，包括以 HTML 打造的「桌遊管家」（willyyayaya.github.io），為桌遊愛好者提供豐富資料；以及「side_project_platform」的前後端實作，結合 CSS／JavaScript 與 Java 技術，協助工程師建立合作夥伴平台​
 GitHub
@@ -29,7 +29,7 @@ GitHub
 
 <h1>English Bio</h1>
 
-My name is Willy Weng (Wei Chih Weng), based in Taiwan (UTC +08:00). I’m an enthusiastic novice programmer eager to learn and contribute across front-end, back-end, and automation domains​
+My name is Willy Weng (Wei Chih Weng). I’m an enthusiastic novice programmer eager to learn and contribute across front-end, back-end, and automation domains​
 GitHub
 . On GitHub, I’ve built several repositories such as “桌遊管家” (willyyayaya.github.io), a HTML-driven boardgame companion site, and “side_project_platform”, a full-stack project using CSS/JavaScript for the client and Java for the server to help engineers find collaboration partners​
 GitHub
